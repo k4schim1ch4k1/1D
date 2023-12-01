@@ -1,11 +1,11 @@
 h1{ 
-font-size: 25px;
+font-size: 50px;
 color: darkgreen;
 text-align: center;
 }
 
 #imagem1 {
- width: 50;
+ width: 50%;
 margin: auto;
 display: block;
 }
