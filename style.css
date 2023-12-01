@@ -1,0 +1,21 @@
+h1{ 
+font-size: 50px;
+color: darkgreen;
+text-align: center;
+}
+
+#imagem1 {
+ width: 50;
+margin: auto;
+display: block;
+}
+
+p{
+  font-size: 30px;
+ color: darkseagreen;
+ text-align: center;
+}
+
+body{
+      background-color: cadetblue;
+}
